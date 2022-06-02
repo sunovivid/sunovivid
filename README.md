@@ -16,7 +16,14 @@ Git GitHub Notion Slack Jira Postman Figma -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunovivid&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunovivid&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
+## Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suno)](https://solved.ac/suno/)
+
+[![CodeForces Profile](https://cf.leed.at?id=sunovivid)](https://codeforces.com/profile/sunovivid)
+  
+  
+  <!--
 **sunovivid/sunovivid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
