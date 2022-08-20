@@ -6,7 +6,7 @@
 
 # `$ who am i`
   
-저는 **웹 서비스 개발, 인공지능, 알고리즘**에 관심을 갖고 있는 고려대학교 컴퓨터학과 학부생입니다.
+저는 **인공지능, 웹 서비스 개발, 알고리즘**에 관심을 갖고 있는 고려대학교 컴퓨터학과 학부생입니다.
  
 2020년 11월부터 2022년 5월까지 공군 정보체계관리단에서 복무하며 Spring 프레임워크를 이용해 인트라넷 체계를 개발했습니다.
 
@@ -49,11 +49,12 @@
   ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 - 공부하고 싶어요
 
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 <br>
