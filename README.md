@@ -89,5 +89,6 @@ Here are some ideas to get you started:
 
 ## 기타
 - 블로그: [sunovivid.tistory.com/](https://sunovivid.tistory.com/)
+- LinkedIn: [https://www.linkedin.com/in/donghoon-ahn-622290246](https://www.linkedin.com/in/donghoon-ahn-622290246)
 - 로켓펀치: [rocketpunch.com/@sunovivid](https://www.rocketpunch.com/@sunovivid)
 - 이메일: suno.vivid@gmail.com
