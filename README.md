@@ -12,7 +12,7 @@ From November 2020 to May 2022, I served in the Air Force Information System Man
 
 In September 2022, I joined CVLAB at Korea University as an undergraduate research student and have been conducting research since January 2023. (Now [CVLAB](https://cvlab.kaist.ac.kr/) is moved to KAIST but I'm still doing research in the lab.)
 
-I am particularly fascinated by the fundamental principles of _how the world works and integrating the inductive biases derived from them into generative models_.
+I am particularly fascinated by the fundamental principles of **_how the world works and integrating the inductive biases derived from them into generative models_.**
 
 Additionally, I have a keen interest in generating images, videos, and 3D models for artistic or practical purposes.
 
