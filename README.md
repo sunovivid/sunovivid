@@ -6,13 +6,19 @@
 
 # `$ who am i`
 
-I am an undergraduate student in the Department of Computer Science at Korea University with an interest in **artificial intelligence, web service development, and algorithms**.
+I am an undergraduate student in the Department of Computer Science at Korea University interested in **artificial intelligence, deep generative models**, especially **diffusion models**.
 
 From November 2020 to May 2022, I served in the Air Force Information System Management Corps, where I developed an intranet system using the Spring framework.
 
-In September 2022, I joined CVLAB at Korea University as an undergraduate research student and have been conducting research since January 2023.
+In September 2022, I joined CVLAB at Korea University as an undergraduate research student and have been conducting research since January 2023. (Now [CVLAB](https://cvlab.kaist.ac.kr/) is moved to KAIST but I'm still doing research in the lab.)
 
-My current research interests include diffusion model and NeRF.
+I am particularly fascinated by the fundamental principles of _how the world works and integrating the inductive biases derived from them into generative models_.
+
+Additionally, I have a keen interest in generating images, videos, and 3D models for artistic or practical purposes.
+
+I enjoy creating beautiful artwork using generative models.
+
+Recently, I co-authored the [**Perturbed-Attention Guidance (PAG)**](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/), which is increasingly used in diffusion models.
 
 My hobbies include drawing, playing piano, cycling, and visiting new places.
 
@@ -24,7 +30,9 @@ If you have any questions, please feel free to contact me at `dhahn99@korea.ac.k
  
 2020년 11월부터 2022년 5월까지 공군 정보체계관리단에서 복무하며 Spring 프레임워크를 이용해 인트라넷 체계를 개발했습니다.
 
-2022년 9월부터 [고려대학교 CVLAB](https://cvlab.korea.ac.kr/)에서 학부연구생으로 들어가 2023년 1월부터 연구를 수행하고 있습니다.
+2022년 9월부터 고려대학교 CVLAB에서 학부연구생으로 들어가 2023년 1월부터 연구를 수행하고 있습니다.
+
+(현재 [KAIST](https://cvlab.kaist.ac.kr/)로 옮겼지만 여전히 학부연구생으로 인턴을 수행하고 있습니다.)
 
 현재 연구 분야는 **diffusion model** 및 NeRF 입니다.
 
