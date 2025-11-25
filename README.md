@@ -6,7 +6,9 @@
 
 # `$ who am i`
 
-I am an undergraduate student in the Department of Computer Science at Korea University interested in **artificial intelligence, deep generative models**, especially **diffusion models**.
+I am a first year PhD student at the University of California, Berkeley, advised by Prof. Alexei Efros.
+
+interested in **artificial intelligence, deep generative models**, especially **diffusion models**.
 
 From November 2020 to May 2022, I served in the Air Force Information System Management Corps, where I developed an intranet system using the Spring framework.
 
